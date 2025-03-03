@@ -1,0 +1,1 @@
+The Employee Hiring Management System is a software application designed to streamline the recruitment and onboarding process for companies. It allows HR managers and administrators to manage job postings, applications, candidate evaluations, interviews, and hiring decisions efficiently.
